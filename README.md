@@ -1,2 +1,2 @@
 # newprovidence
-A landing page for iPhone UI kit. Bootstrap.
+A landing page for iPhone UI kit. Bootstrap, adaptive.
